@@ -7,7 +7,7 @@ Basic and raw PHP scriopt to create Amazon S3 Expiring URL's
 Very simple PHP script to create time expiring URL's for Amazon S3.
 
 - Set your public and secret keys in key.php
-- Set your bucket name in s3-expiring-url.php @ line 8.
+- Set your bucket name in s3-expiring-url.php @ line 8. The file delivering from bucket shoud not need any special permissions.
 - Set your link expire time in s3-expiring-url.php @ line 51. To test, set line 51 to a value of 1.
 - Navigate to download.php and test link. Wait for time to expire and click link again. Should get expire message from Amazon.
 
