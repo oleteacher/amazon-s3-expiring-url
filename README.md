@@ -17,6 +17,6 @@ I do not recommend you use this script as is. We have found it safe for our need
 
 ### Credits
 
-I have had this script for years and honestly cannot remember where the main code came from. Most is based on code directly from Amazon examples. I believe in giving credit where credit is due but in this case I haven't a clue...
+I have had this script for years and honestly cannot remember where the main code came from. It was updated and sent back to me few months ago so decided to share here and make easier to maintain. Most is based on code directly from Amazon examples. I believe in giving credit where credit is due but in this case, I haven't clue to origin.
 
 If you have improvements, they are welcome and looking forward to pull request, so fork it!
