@@ -13,7 +13,7 @@ Very simple PHP script to create time expiring URL's for Amazon S3.
 
 ## Not for Production
 
-I do not recommend you use this script as is. We have found it safe for our needs but has never been tested in rouge environment. Use at your own risk.
+I do not recommend you use this script as is. We have found it safe for our needs but has never been tested in rouge environment.  We are using for educational purposes. Use at your own risk.
 
 ### Credits
 
