@@ -60,7 +60,7 @@ if(!function_exists('getSignedUrl')){
         $stringToSign = implode("\n", $pieces = array('GET', null, null, $expires, $objectPathForSignature));
         
         # Create the URL friendly string to use.
-        $url = 'http://' . $bucket . '.s3.amazonaws.com/' . $objectPath;
+        $url = 'https://' . $bucket . '.s3.amazonaws.com/' . $objectPath;
         
         # Custom parameters.
         $appendCharacter = '?'; // Default append character.
